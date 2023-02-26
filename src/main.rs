@@ -5,7 +5,7 @@ fn main() {
 
     println!("Please input your guess:");
 
-    let mut guess = String::new();
+    let mut guess = String::new(); // mut for mutable variables.  Every variable is immutable by default
 
     io::stdin()
         .read_line(&mut guess)
