@@ -1,0 +1,11 @@
+/Users/indiecampers/LearningRust/target/debug/deps/getrandom-c0b4b8016c8ecd92.rmeta: /Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/lib.rs /Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/error.rs /Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/util.rs /Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/error_impls.rs /Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/util_libc.rs /Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/use_file.rs /Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/macos.rs
+
+/Users/indiecampers/LearningRust/target/debug/deps/getrandom-c0b4b8016c8ecd92.d: /Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/lib.rs /Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/error.rs /Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/util.rs /Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/error_impls.rs /Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/util_libc.rs /Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/use_file.rs /Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/macos.rs
+
+/Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/lib.rs:
+/Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/error.rs:
+/Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/util.rs:
+/Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/error_impls.rs:
+/Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/util_libc.rs:
+/Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/use_file.rs:
+/Users/indiecampers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.8/src/macos.rs:
